@@ -8,7 +8,7 @@
 
 💬 Ask me about [Veggies]() 🥕
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luca-terrazzan/) | [GitHub (duh?)](https://github.com/Luca-Terrazzan) | [Stack Overflow](https://stackoverflow.com/users/4487514/luca-t?tab=profile) | [Email](luca.terraz@gmail.com)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luca-terrazzan/) | [GitHub (duh?)](https://github.com/Luca-Terrazzan) | [Stack Overflow](https://stackoverflow.com/users/4487514/luca-t?tab=profile) | <luca.terraz@gmail.com>
 <!-- 
 Will add fun facts later
 
